@@ -3,7 +3,10 @@
 		{
 		  "id": "ddnet",
 		  "name": "DDraceNetwork",
-		  "icon": "https://raw.githubusercontent.com/TeeNexus/custom-communities/refs/heads/main/logos/ddnet-logo.png"
+		  "banner": "https://raw.githubusercontent.com/TeeNexus/custom-communities/refs/heads/main/banner/ddnet-banner.png"
+		},
+		{
+			"banner": "https://raw.githubusercontent.com/TeeNexus/custom-communities/refs/heads/main/banner/none-banner.png"
 		}
 	],
 	"communities": [
