@@ -1,4 +1,11 @@
 {
+	"communities_icon": [
+		{
+		  "id": "ddnet",
+		  "name": "DDraceNetwork",
+		  "icon": "https://raw.githubusercontent.com/TeeNexus/custom-communities/refs/heads/main/logos/ddnet-logo.png"
+		}
+	],
 	"communities": [
 		{
 			"id": "away",
